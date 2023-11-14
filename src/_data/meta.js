@@ -1,8 +1,8 @@
 module.exports = {
   url: process.env.URL || "http://localhost:8080",
-  siteName: "11ty Netlify Jumpstart",
+  siteName: "Adaptive XAI",
   siteDescription:
-    "Quickly launch an 11ty-generated static site. Includes a minimal Sass framework, generated sitemap, and RSS feed.",
-  authorName: "Stephanie Eckles",
-  twitterUsername: "5t3ph", // no `@`
+    "Adaptive eXplainable AI - Towards Intelligent Interfaces for Tailored AI Explanations",
+  authorName: "Tommaso Turchi",
+  twitterUsername: "AXAIWorkshop", // no `@`
 };
