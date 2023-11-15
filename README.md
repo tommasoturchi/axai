@@ -42,6 +42,8 @@ The deadline for submissions is *January 16, 2024* [AoE](https://time.is/Anywher
 
 Submission website: TBA
 
+Additionally, selected papers will be invited for submission in expanded form to a Special Issue in the Springer journal "Personal and Ubiquitous Computing" (PAUC). The topic of the special issue will be Hybrid Human-AI Systems. Further instructions regarding formatting and the review/publication process will be provided when the invitations are made.
+
 Please send any comments or questions to Tommaso Turchi, [tommaso.turchi@unipi.it](mailto:tommaso.turchi@unipi.it).
 
 ### Organisers
