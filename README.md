@@ -2,6 +2,7 @@
 ## Towards Intelligent Interfaces for Tailored AI Explanations
 
 ### Outline
+
 This page describes the [IUI 2024](https://iui.acm.org/2024/index.html) Workshop on Adaptive eXplainable AI.
 - **Venue**: Greenville, South Carolina, USA
 - **Workshop Date**: March 18, 2024
@@ -58,7 +59,10 @@ Please send any comments or questions to Tommaso Turchi, [tommaso.turchi@unipi.i
 
 **Alan Chamberlain** is a Senior Research Fellow at the University of Nottingham (United Kingdom). His research is based on Human-Computer Interaction, Ethnography, Action Research, Participatory Design, and User Engagement in order to develop networks of people who are able to involve themselves in the practices of innovation and design.
 
+### Program Committee
+
+TBA
+
 ### Acknowledgements
+
 We would like to acknowledge the support of the PNRR - M4C2 - Investimento 1.3, Partenariato Esteso PE00000013 - “FAIR - Future Artificial Intelligence Research” - Spoke 1 “Human-centered AI”, funded by the European Commission under the NextGeneration EU programme.
-
-
