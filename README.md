@@ -6,7 +6,7 @@
 This page describes the [IUI 2024](https://iui.acm.org/2024/index.html) Workshop on Adaptive eXplainable AI.
 - **Venue**: Greenville, South Carolina, USA
 - **Workshop Date**: March 18, 2024
-- **Submission Deadline**: January 16, 2024
+- **Submission Deadline**: January 19, 2024
 - **Notification**: February 9, 2024
 - **Camera Ready**: March 1, 2024
 - **Submission Website**: TBA
@@ -39,7 +39,7 @@ The topics include <u>but are not limited to</u>:
 
 Submissions may be up to 4 pages long (references may appear on additional pages), following the IUI 2024 instructions for papers.
 
-The deadline for submissions is *January 16, 2024* [AoE](https://time.is/Anywhere_on_Earth).
+The deadline for submissions is *January 19, 2024* [AoE](https://time.is/Anywhere_on_Earth).
 
 Submission website: TBA
 
