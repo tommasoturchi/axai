@@ -61,7 +61,10 @@ Please send any comments or questions to Tommaso Turchi, [tommaso.turchi@unipi.i
 
 ### Program Committee
 
-TBA
+- **Alan Dix**, University of Swansea (United Kingdom)
+- **Silvio Carta**, University of Greenwich (United Kingdom)
+
+Developing...
 
 ### Acknowledgements
 
