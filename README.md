@@ -10,7 +10,7 @@ This page describes the [IUI 2024](https://iui.acm.org/2024/index.html) Workshop
 - **Notification**: February 9, 2024
 - **Camera Ready**: March 1, 2024
 - **Submission Website**: TBA
-- **Submission Templates**: [ACM Template](https://www.acm.org/publications/taps/word-template-workflow) (4 pages max excluding references - Anonymous submissions preferred, but not required.)
+- **Submission Templates**: TBA
 
 As the integration of Artificial Intelligence into daily decision-making processes intensifies, the need for clear communication between humans and AI systems becomes crucial. The Adaptive XAI (AXAI) workshop focuses on the design and development of intelligent interfaces that can adaptively explain AI's decision-making processes and our engagement with those processes.
 
