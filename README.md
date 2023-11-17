@@ -18,7 +18,7 @@ In line with the human-centric principles of the [Future Artificial Intelligence
 
 For instance, easy to use and effective interaction modalities like Visual Languages can provide users with intuitive mechanisms to interact with, adjust, and reshape AI narratives. This ensures that a richer, more tailored understanding can be provided, allowing explanations to emerge in line with the users' demands and the ever-shifting contexts they find themselves in, both as individuals and as part of a group.
 
-The Adaptive XAI workshop extends an invitation to scholars, designers, and tech-nologists to collaboratively shape the future of human-XAI interplay.
+The Adaptive XAI workshop extends an invitation to scholars, designers, and technologists to collaboratively shape the future of human-XAI interplay.
 
 ### Topics and Themes
 
@@ -55,7 +55,7 @@ Please send any comments or questions to Tommaso Turchi, [tommaso.turchi@unipi.i
 
 **Fabio Paternò** is Research Director at CNR-ISTI in Pisa (Italy). His research activity has mainly been carried out in the HCI field, with the goal to introduce computational support to improve usability, accessibility, and user experience for all in the various possible contexts of use by proposing relevant languages, models, design spaces, tools, and applications.
 
-**Simone Borsci** is an Associate Professor of Human Factors and Cognitive Ergonomics at the University of Twente (Netherlands). His research spans across Human factors and ergonomics, interaction with technology and artefacts, usability and accessibility studies, and user ex- perience analysis in ubiquitous computing contexts.
+**Simone Borsci** is an Associate Professor of Human Factors and Cognitive Ergonomics at the University of Twente (Netherlands). His research spans across Human factors and ergonomics, interaction with technology and artefacts, usability and accessibility studies, and user experience analysis in ubiquitous computing contexts.
 
 **Alan Chamberlain** is a Senior Research Fellow at the University of Nottingham (United Kingdom). His research is based on Human-Computer Interaction, Ethnography, Action Research, Participatory Design, and User Engagement in order to develop networks of people who are able to involve themselves in the practices of innovation and design.
 
@@ -68,4 +68,6 @@ Developing...
 
 ### Acknowledgements
 
-We would like to acknowledge the support of the PNRR - M4C2 - Investimento 1.3, Partenariato Esteso PE00000013 - “FAIR - Future Artificial Intelligence Research” - Spoke 1 “Human-centered AI”, funded by the European Commission under the NextGeneration EU programme.
+We would like to acknowledge the support of the PNRR - M4C2 - Investimento 1.3, Partenariato Esteso PE00000013 - “FAIR - Future Artificial Intelligence Research” - Spoke 1 “Human-centered AI”, funded by the European Commission under the NextGeneration EU programme. This work was also supported by the Engineering and Physical Sciences Research Council [grant number EP/V00784X/1] UKRI Trustworthy Autonomous Systems Hub (The TAS RRI II project), [grant number EP/G065802/1] Horizon: Digital Economy Hub at the University of Nottingham (HoRRIzon III), and [grant number EP/Y009800/1] AI UK: Creating an International Ecosystem for Responsible AI Research and Innovation (RAI UK), (RAKE Responsible Innovation Advantage in Knowledge Exchange).
+
+We acknowledge the involvement of the STAHR Collective.
