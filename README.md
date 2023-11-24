@@ -6,11 +6,11 @@
 This page describes the [IUI 2024](https://iui.acm.org/2024/index.html) Workshop on Adaptive eXplainable AI.
 - **Venue**: Greenville, South Carolina, USA
 - **Workshop Date**: March 18, 2024
-- **Submission Deadline**: January 19, 2024
+- **Submission Deadline**: January 16, 2024
 - **Notification**: February 9, 2024
-- **Camera Ready**: March 1, 2024
+- **Camera Ready**: February 23, 2024
 - **Submission Website**: TBA
-- **Submission Templates**: TBA
+- **Submission Templates**: [CEUR-ART 1-column Template](https://drive.google.com/file/d/1F9Nllrmhu6gUuYDdl-svxqwd5AW5NmZY/view?usp=drive_link) (5-10 pages - Anonymous submissions preferred, but not required)
 
 As the integration of Artificial Intelligence into daily decision-making processes intensifies, the need for clear communication between humans and AI systems becomes crucial. The Adaptive XAI (AXAI) workshop focuses on the design and development of intelligent interfaces that can adaptively explain AI's decision-making processes and our engagement with those processes.
 
@@ -37,7 +37,7 @@ The topics include <u>but are not limited to</u>:
 
 ### Contributing Your Work
 
-Submissions may be up to 4 pages long (references may appear on additional pages), following the IUI 2024 instructions for papers.
+Submissions should be between 5 and 10 pages long, following the [CEUR-WS instructions](https://ceur-ws.org/HOWTOSUBMIT.html) for papers.
 
 The deadline for submissions is *January 19, 2024* [AoE](https://time.is/Anywhere_on_Earth).
 
