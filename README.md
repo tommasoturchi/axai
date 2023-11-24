@@ -63,6 +63,7 @@ Please send any comments or questions to Tommaso Turchi, [tommaso.turchi@unipi.i
 
 - **Alan Dix**, University of Swansea (United Kingdom)
 - **Silvio Carta**, University of Greenwich (United Kingdom)
+- **Riccardo Guidotti**, University of Pisa (Italy)
 
 Developing...
 
