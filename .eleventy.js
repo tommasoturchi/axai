@@ -19,8 +19,6 @@ module.exports = function (eleventyConfig) {
 
   eleventyConfig.addShortcode("year", () => `${new Date().getFullYear()}`);
 
-  eleventyConfig.addShortcode("daysTo", (date) => Math.round((new Date(date) - new Date()) / (1000 * 60 * 60 * 24)));
-
   /* Markdown Overrides */
   let markdownLibrary = markdownIt({
     html: true,

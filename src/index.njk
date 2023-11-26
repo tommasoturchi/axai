@@ -25,6 +25,7 @@ templateEngineOverride: md, njk
     font-size: 1.5rem;
   }
 </style>
+
 <header class="tdbc-hero">
   <div class="tdbc-container">
     <div class="logo">
@@ -57,7 +58,7 @@ templateEngineOverride: md, njk
 This page describes the <a href="https://iui.acm.org/2024/index.html">IUI 2024</a> Workshop on Adaptive eXplainable AI.
 - **Venue**: Greenville, South Carolina, USA
 - **Workshop Date**: March 18, 2024
-- **Submission Deadline**: January 16, 2024 _(**{% daysTo "2024-01-16" %}** days to go)_
+- **Submission Deadline**: January 16, 2024 _(**<span id="daysLeft"></span>** days to go)_
 - **Notification**: February 9, 2024
 - **Camera Ready**: February 23, 2024
 - **Submission Website**: TBA
@@ -133,3 +134,12 @@ We acknowledge the involvement of the STAHR Collective.
 </div>
 
 </main>
+
+<script>
+    function updateCountdown() {
+        const daysLeft = Math.ceil((new Date("2024-01-16") - new Date()) / (1000 * 60 * 60 * 24));
+        document.getElementById('daysLeft').innerText = daysLeft >= 0 ? daysLeft : 0;
+    }
+
+    updateCountdown();
+</script>
