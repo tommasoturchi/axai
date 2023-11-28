@@ -9,7 +9,7 @@ This page describes the [IUI 2024](https://iui.acm.org/2024/index.html) Workshop
 - **Submission Deadline**: January 16, 2024
 - **Notification**: February 9, 2024
 - **Camera Ready**: February 23, 2024
-- **Submission Website**: TBA
+- **Submission Website**: [Microsoft CMT](https://cmt3.research.microsoft.com/AXAI2024)
 - **Submission Templates**: [CEUR-ART 1-column Template](https://drive.google.com/file/d/1F9Nllrmhu6gUuYDdl-svxqwd5AW5NmZY/view?usp=drive_link) (5-10 pages)
 
 As the integration of Artificial Intelligence into daily decision-making processes intensifies, the need for clear communication between humans and AI systems becomes crucial. The Adaptive XAI (AXAI) workshop focuses on the design and development of intelligent interfaces that can adaptively explain AI's decision-making processes and our engagement with those processes.
@@ -41,7 +41,7 @@ Submissions should be between 5 and 10 pages long, following the [CEUR-WS instru
 
 The deadline for submissions is *January 16, 2024* [AoE](https://time.is/Anywhere_on_Earth).
 
-Submission website: TBA
+Submission website: [Microsoft CMT](https://cmt3.research.microsoft.com/AXAI2024)
 
 Additionally, selected papers will be invited for submission in expanded form to a Special Issue in the Springer journal "Personal and Ubiquitous Computing" (PAUC). The topic of the special issue will be Hybrid Human-AI Systems. Further instructions regarding formatting and the review/publication process will be provided when the invitations are sent.
 
