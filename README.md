@@ -66,6 +66,7 @@ Please send any comments or questions to Tommaso Turchi, [tommaso.turchi@unipi.i
 - **Riccardo Guidotti**, University of Pisa (Italy)
 - **Matt Roach**, University of Swansea (United Kingdom)
 - **Marlene Weber**, Harness Inc. (United States)
+- **Federico Mazzoni**, University of Pisa (Italy)
 
 Developing...
 
