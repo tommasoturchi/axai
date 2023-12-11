@@ -3,6 +3,7 @@ module.exports = {
   siteName: "Adaptive XAI",
   siteDescription:
     "Adaptive eXplainable AI - Towards Intelligent Interfaces for Tailored AI Explanations",
+  socialTitle: "Adaptive XAI Workshop @ IUI 2024",
   authorName: "Tommaso Turchi",
   twitterUsername: "AXAIWorkshop", // no `@`
 };
