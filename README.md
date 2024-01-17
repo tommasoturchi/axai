@@ -6,7 +6,7 @@
 This page describes the [IUI 2024](https://iui.acm.org/2024/index.html) Workshop on Adaptive eXplainable AI.
 - **Venue**: Greenville, South Carolina, USA
 - **Workshop Date**: March 18, 2024
-- **Submission Deadline**: January 16, 2024
+- ~~**Submission Deadline**: January 16, 2024~~
 - **Notification**: February 9, 2024
 - **Camera Ready**: February 23, 2024
 - **Submission Website**: [Microsoft CMT](https://cmt3.research.microsoft.com/AXAI2024)
