@@ -37,11 +37,11 @@ The topics include <u>but are not limited to</u>:
 
 ### Contributing Your Work
 
-~~Submissions should be between 5 and 10 pages long, following the [CEUR-WS instructions](https://ceur-ws.org/HOWTOSUBMIT.html) for single column papers.~~
+Submissions should be between 5 and 10 pages long, following the [CEUR-WS instructions](https://ceur-ws.org/HOWTOSUBMIT.html) for single column papers.
 
 ~~The deadline for submissions is *January 16, 2024* [AoE](https://time.is/Anywhere_on_Earth).~~
 
-~~Submission website: [Microsoft CMT](https://cmt3.research.microsoft.com/AXAI2024)~~
+Submission website: [Microsoft CMT](https://cmt3.research.microsoft.com/AXAI2024)
 
 Additionally, selected papers will be invited for submission in expanded form to a Special Issue in the Springer journal "Personal and Ubiquitous Computing" (PAUC). The topic of the special issue will be Hybrid Human-AI Systems. Further instructions regarding formatting and the review/publication process will be provided when the invitations are sent.
 
