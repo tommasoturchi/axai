@@ -8,7 +8,7 @@ This page describes the [IUI 2024](https://iui.acm.org/2024/index.html) Workshop
 - **Workshop Date**: March 18, 2024
 - ~~**Submission Deadline**: January 16, 2024~~
 - ~~**Notification**: February 9, 2024~~
-- **Camera Ready**: February 23, 2024
+- ~~**Camera Ready**: February 23, 2024~~
 - **Submission Website**: [Microsoft CMT](https://cmt3.research.microsoft.com/AXAI2024)
 - **Submission Templates**: [CEUR-ART 1-column Template](https://drive.google.com/file/d/1F9Nllrmhu6gUuYDdl-svxqwd5AW5NmZY/view?usp=drive_link) (5-10 pages)
 
