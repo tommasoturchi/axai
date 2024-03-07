@@ -1,11 +1,11 @@
 ---
 title: "Workshop Program"
-description: "We're thrilled to unveil the workshop program for our upcoming event in Greenville. Join us for a day filled with insightful presentations, collaborative activities, and engaging discussions."
+description: "We're thrilled to unveil the workshop program for our upcoming event in Greenville. Join us for a morning filled with insightful presentations, collaborative activities, and engaging discussions."
 ---
 
 ### About the Event
 
-We are excited to present the program for the Adaptive eXplainable AI Workshop, set to take place on Monday, March 18 in _Room BofA 1, AC Hotel by Marriott Greenville Downtown_. This workshop promises a day rich with learning, networking, and exploration of the latest advancements in the field of eXplainable AI.
+We are excited to present the program for the Adaptive eXplainable AI Workshop, set to take place on Monday, March 18 in _Room BofA 1, AC Hotel by Marriott Greenville Downtown_. This workshop promises a morning rich with learning, networking, and exploration of the latest advancements in the field of eXplainable AI.
 
 Whether you're presenting, attending, or collaborating, we look forward to your participation and contribution to making this event a success. See you in Greenville!
 
