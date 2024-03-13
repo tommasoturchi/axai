@@ -7,8 +7,6 @@ description: "We're thrilled to unveil the workshop program for our upcoming eve
 
 We are excited to present the program for the Adaptive eXplainable AI Workshop, set to take place on Monday, March 18 in _Room BofA 1, AC Hotel by Marriott Greenville Downtown_. This workshop promises a morning rich with learning, networking, and exploration of the latest advancements in the field of eXplainable AI.
 
-Whether you're presenting, attending, or collaborating, we look forward to your participation and contribution to making this event a success. See you in Greenville!
-
 <center>
 
 | <big style="padding: 5rem">Time</big> | <big>Monday March 18</big> |
@@ -25,6 +23,12 @@ Whether you're presenting, attending, or collaborating, we look forward to your 
 
 <br />
 
+#### Accepted Papers
+- Fabio Paternò, Andrea Mattioli, and Sara Maenza. [A Design Space for Adaptive Explainable Daily Automations](/papers/Paterno.pdf)
+- Yan-Ming Chiou, Bob Price, Suibi Che-Chuan Weng, and Charles Ortiz. [Intelligent Augmented Reality System for Multi-Tasking Guidance and Support with Seamless AI-HCI Integration](/papers/Chiou.pdf)
+- Kaisa Väänänen, Ashley Colley, and Jonna Häkkilä. [Towards Adaptive AI Explanations with Tangible User Interfaces](/papers/Vaananen.pdf)
+
+#### Collaborative Activity
 Following the engaging presentations and coffee break, our collaborative activity session promises to be a highlight of the workshop. This interactive segment is dedicated to fostering discussions on cutting-edge research trends within the realm of Adaptive eXplainable AI. Participants will have the unique opportunity to explore avenues for future research, brainstorm potential joint publications, and deliberate on the direction of upcoming workshop editions.
 
 We aim to harness the collective expertise and insights of our attendees to identify new challenges, propose innovative solutions, and set the stage for collaborative efforts that push the boundaries of transparent AI decision-making, human-centric AI design, and seamless AI-HCI integration.
