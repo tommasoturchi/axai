@@ -5,7 +5,7 @@ description: "We're thrilled to unveil the workshop program for our upcoming eve
 
 ### About the Event
 
-We are excited to present the program for the Adaptive eXplainable AI Workshop, set to take place on Monday, March 18 in _Room BofA 1, AC Hotel by Marriott Greenville Downtown_. This workshop promises a morning rich with learning, networking, and exploration of the latest advancements in the field of eXplainable AI.
+We are excited to present the program for the Adaptive eXplainable AI Workshop, set to take place on Monday, March 18 in _Room Jasmine, AC Hotel by Marriott Greenville Downtown_. This workshop promises a morning rich with learning, networking, and exploration of the latest advancements in the field of eXplainable AI.
 
 <center>
 
