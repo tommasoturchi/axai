@@ -19,6 +19,46 @@ templateEngineOverride: md, njk
   #quickstart + ol li:first-child p {
     font-size: 1.5rem;
   }
+
+  .stamp {
+    display: inline-block;
+    color: red;
+    font-weight: 600;
+    font-size: 0.8rem;
+    border: 2px solid red;
+    border-radius: 5px;
+    line-height: 1.1;
+    padding: 0 1px;
+    transform: rotateZ(-20deg);
+  }
+
+  .tbd {
+    position: relative;
+    bottom: 2px;
+    display: inline-block;
+    margin-bottom: 2px;
+    color: #171392;
+    font-weight: 600;
+    font-size: 0.8rem;
+    border: 2px solid #171392;
+    border-radius: 6px;
+    line-height: 1.1;
+    padding: 0 2px;
+  }
+
+  .note {
+    position: relative;
+    bottom: 2px;
+    display: inline-block;
+    margin-bottom: 2px;
+    color: green;
+    font-weight: 600;
+    font-size: 0.8rem;
+    border: 2px solid green;
+    border-radius: 6px 10px 10px 6px;
+    line-height: 1.1;
+    padding: 0 2px;
+  }
 </style>
 
 <header class="tdbc-hero">
@@ -53,7 +93,12 @@ templateEngineOverride: md, njk
 This page describes the <a href="https://iui.acm.org/2025/index.html">IUI 2025</a> Workshop on Adaptive eXplainable AI. If you're looking for last year's workshop, please visit the <a href="/2024/">2024 edition</a>.
 
 - **Venue**: Cagliari, Sardinia, Italy
-- **Workshop Date**: TBD
+- **Workshop Date**: <span class="tbd">TBD</span>
+- **Submission Templates**: <a href="https://drive.google.com/file/d/1F9Nllrmhu6gUuYDdl-svxqwd5AW5NmZY/view?usp=drive_link">CEUR-ART 1-column Template</a> (5-10 pages)
+{# - **Submission Deadline**: <span class="tbd">TBD</span>
+- **Notification**: <span class="tbd">TBD</span>
+- **Camera Ready**: <span class="tbd">TBD</span>
+- **Submission Website**: <a href="https://cmt3.research.microsoft.com/AXAI2024">Microsoft CMT</a> #}
 
 As the integration of Artificial Intelligence into daily decision-making processes intensifies, the need for clear communication between humans and AI systems becomes crucial. The Adaptive XAI (AXAI) workshop focuses on the design and development of intelligent interfaces that can adaptively explain AI's decision-making processes and our engagement with those processes.
 
@@ -62,6 +107,52 @@ In line with the human-centric principles of the <a href="https://future-ai-rese
 For instance, easy to use and effective interaction modalities like Visual Languages can provide users with intuitive mechanisms to interact with, adjust, and reshape AI narratives. This ensures that a richer, more tailored understanding can be provided, allowing explanations to emerge in line with the users' demands and the ever-shifting contexts they find themselves in, both as individuals and as part of a group.
 
 The Adaptive XAI workshop extends an invitation to scholars, designers, and technologists to collaboratively shape the future of human-XAI interplay.
+
+<h2 id="topics" class="tdbc-h3">Topics and Themes</h2>
+
+This year's workshop will delve deeper into emerging trends and challenges identified during our <a href="/2024/">first edition</a>, with a particular focus on:
+
+1. Advancements in **personalized XAI interfaces** that adapt to users' evolving needs and contexts
+2. Novel **interaction modalities for XAI**, including multimodal and immersive explanations
+3. **Ethical considerations** in adaptive XAI, addressing issues of transparency, trust, and user autonomy
+4. Integration of **XAI in specific domains**, such as healthcare, finance, and autonomous systems
+5. Evaluation methodologies for **adaptive XAI interfaces**
+6. **Over-reliance and automation bias in XAI systems**, exploring strategies to maintain appropriate user skepticism and engagement
+7. Leveraging **Large Language Models (LLMs) for enhancing explainability**, including their potential and limitations in generating human-understandable explanations
+8. **Interactive Machine Learning** approaches in XAI, focusing on user-in-the-loop systems that allow for real-time adjustments and explanations
+9. **Hybrid decision-making frameworks** that effectively combine human expertise with AI capabilities, supported by adaptive explanations
+
+<h2 id="contributing" class="tdbc-h3">Contributing Your Work</h2>
+
+Submissions should be between 5 and 10 pages long, following the <a href="https://ceur-ws.org/HOWTOSUBMIT.html">CEUR-WS instructions</a> for single column papers.
+
+{# ~~The deadline for submissions is *January 16, 2024* <a href="https://time.is/Anywhere_on_Earth">AoE</a>.~~ #}
+
+{# Submission website: <a href="https://cmt3.research.microsoft.com/AXAI2024">Microsoft CMT</a> #}
+
+{# Additionally, selected papers will be invited for submission in expanded form to a Special Issue in the Springer journal "Personal and Ubiquitous Computing" (PAUC). The topic of the special issue will be Hybrid Human-AI Systems. Further instructions regarding formatting and the review/publication process will be provided when the invitations are sent. #}
+
+Please send any comments or questions to Tommaso Turchi, <a href="mailto:tommaso.turchi@unipi.it">tommaso.turchi@unipi.it</a>.
+
+<h2 id="organisers" class="tdbc-h3">Organisers</h2>
+
+<span class="tdbc-h4">Tommaso Turchi</span> is an Assistant Professor at the University of Pisa (Italy). His research focuses on Human-Centered AI and End-User Development. He has worked on various research projects related to the interaction with AI systems and is currently investigating the use of Design Fiction for AI-as-a-service applications in the medical field. His most recent work includes the development of a co-design toolkit to identify and address bias in ML-based collaborative decision-making domains.
+
+<span class="tdbc-h4">Alessio Malizia</span> is an Associate Professor at the University of Pisa (Italy). His research focuses on Human-Centered AI and Design Fictions. He's involved in different National and International projects developing novel approaches for improving scientific methods to study Human-Artificial Intelligence Interaction.
+
+<span class="tdbc-h4">Fabio Paternò</span> is Research Director at CNR-ISTI in Pisa (Italy). His research activity has mainly been carried out in the HCI field, with the goal to introduce computational support to improve usability, accessibility, and user experience for all in the various possible contexts of use by proposing relevant languages, models, design spaces, tools, and applications.
+
+<span class="tdbc-h4">Simone Borsci</span> is an Associate Professor of Human Factors and Cognitive Ergonomics at the University of Twente (Netherlands). His research spans across Human factors and ergonomics, interaction with technology and artefacts, usability and accessibility studies, and user experience analysis in ubiquitous computing contexts.
+
+<span class="tdbc-h4">Alan Chamberlain</span> is a Senior Research Fellow at the University of Nottingham (United Kingdom). His research is based on Human-Computer Interaction, Ethnography, Action Research, Participatory Design, and User Engagement in order to develop networks of people who are able to involve themselves in the practices of innovation and design.
+
+<span class="tdbc-h4">Andrew Fish</span> is an Honorary Reader at the University of Liverpool (United Kingdom). He has wide-ranging interests rooted in Mathematics and Computer Science with specific interests in visual representations across areas of visual languages, logics and interfaces, combinatorial knot theory and information visualisation.
+
+{# <h2 id="committee" class="tdbc-h3">Program Committee</h2> #}
+
+<h2 id="acknowledgements" class="tdbc-h3">Acknowledgements</h2>
+
+We would like to acknowledge the support of the PNRR - M4C2 - Investimento 1.3, Partenariato Esteso PE00000013 - “FAIR - Future Artificial Intelligence Research” - Spoke 1 “Human-centered AI”, funded by the European Commission under the NextGeneration EU programme. This work was also supported by the Engineering and Physical Sciences Research Council [grant number EP/V00784X/1] UKRI Trustworthy Autonomous Systems Hub (The TAS RRI II project), [grant number EP/G065802/1] Horizon: Digital Economy Hub at the University of Nottingham (HoRRIzon III), and [grant number EP/Y009800/1] AI UK: Creating an International Ecosystem for Responsible AI Research and Innovation (RAI UK), (RAKE Responsible Innovation Advantage in Knowledge Exchange).
 
 </main>
 
