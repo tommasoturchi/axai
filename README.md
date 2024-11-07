@@ -54,7 +54,7 @@ Please send any comments or questions to Tommaso Turchi, [tommaso.turchi@unipi.i
 
 **Simone Borsci** is an Associate Professor of Human Factors and Cognitive Ergonomics at the University of Twente (Netherlands). His research spans across Human factors and ergonomics, interaction with technology and artefacts, usability and accessibility studies, and user experience analysis in ubiquitous computing contexts.
 
-**Alan Chamberlain** is a Senior Research Fellow at the University of Nottingham (United Kingdom). His research is based on Human-Computer Interaction, Ethnography, Action Research, Participatory Design, and User Engagement in order to develop networks of people who are able to involve themselves in the practices of innovation and design.
+**Alan Chamberlain** is a Principal Research Fellow at the University of Nottingham (United Kingdom). His research is based on Human-Computer Interaction, Ethnography, Action Research, Participatory Design, and User Engagement in order to develop networks of people who are able to involve themselves in the practices of innovation and design.
 
 **Andrew Fish** is an Honorary Reader at the University of Liverpool (United Kingdom). He has wide-ranging interests rooted in Mathematics and Computer Science with specific interests in visual representations across areas of visual languages, logics and interfaces, combinatorial knot theory and information visualisation.
 
