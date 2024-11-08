@@ -4,10 +4,34 @@ templateEngineOverride: md, njk
 ---
 
 <style>
+  .logo-container {
+    position: relative;
+    display: inline-block;
+  }
+
   .logo {
     font-family: 'Fascinate Inline', sans-serif;
     font-size: 10rem;
     color: #171392;
+  }
+
+  .edition {
+    font-family: 'Courier Prime', monospace;
+    position: absolute;
+    bottom: 20%;
+    right: 10%;
+    color: #666;
+    font-weight: 800;
+    font-size: 1.2rem;
+    border: 2px solid #df2b7c;
+    border-radius: 4px;
+    padding: 2px 6px;
+    background-color: rgba(255, 255, 255, 0.9);
+    transform: rotate(-12deg);
+    z-index: 1;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.2);
   }
 
   .tdbc-hero {
@@ -23,8 +47,11 @@ templateEngineOverride: md, njk
 
 <header class="tdbc-hero">
   <div class="tdbc-container">
-    <div class="logo">
-      <span style=" color: #df2b7c">A</span>XAI
+    <div class="logo-container">
+      <div class="logo">
+        <span style="color: #df2b7c">A</span>XAI
+      </div>
+      <span class="edition">2024</span>
     </div>
     <h1 class="tdbc-ink--primary tdbc-mb-none">{{ meta.siteName }}</h1>
     <h2 class="tdbc-lead tdbc-content-maxlength tdbc-ink--gray tdbc-mt-md tdbc-mx-auto">
