@@ -10,7 +10,7 @@ This page describes the [IUI 2025](https://iui.acm.org/2025/index.html) Workshop
 - **Notification**: January 27, 2025
 - **Camera Ready**: February 10, 2025
 - **Submission Templates**: [CEUR-ART 1-column Template](https://drive.google.com/file/d/1F9Nllrmhu6gUuYDdl-svxqwd5AW5NmZY/view?usp=drive_link)
-<!-- - **Submission Website**: [Microsoft CMT](https://cmt3.research.microsoft.com/AXAI2025) -->
+- **Submission Website**: [Microsoft CMT](https://cmt3.research.microsoft.com/AXAI2025)
 
 As the integration of Artificial Intelligence into daily decision-making processes intensifies, the need for clear communication between humans and AI systems becomes crucial. The Adaptive XAI (AXAI) workshop focuses on the design and development of intelligent interfaces that can adaptively explain AI's decision-making processes and our engagement with those processes.
 
