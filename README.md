@@ -7,7 +7,7 @@ This page describes the [IUI 2025](https://iui.acm.org/2025/index.html) Workshop
 - **Venue**: Cagliari, Sardinia, Italy
 - **Workshop Date**: March 24, 2024
 - **Submission Deadline**: January 13, 2025
-- **Notification**: January 27, 2025
+- **Notification**: January 20, 2025
 - **Camera Ready**: February 10, 2025
 - **Submission Templates**: [CEUR-ART 1-column Template](https://drive.google.com/file/d/1F9Nllrmhu6gUuYDdl-svxqwd5AW5NmZY/view?usp=drive_link)
 - **Submission Website**: [Microsoft CMT](https://cmt3.research.microsoft.com/AXAI2025)
