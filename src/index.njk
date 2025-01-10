@@ -94,7 +94,7 @@ This page describes the <a href="https://iui.acm.org/2025/index.html">IUI 2025</
 
 - **Venue**: Cagliari, Sardinia, Italy
 - **Workshop Date**: March 24, 2025
-- **Submission Deadline**: <a href="https://time.is/2359_15_Jan_2025_in_Anywhere_on_Earth?AXAI_2025_Paper_Deadline">January 15, 2025</a> (*<span id="daysLeft"></span>* days left) <span class="stamp">EXTENDED</span>
+- **Submission Deadline**: <a href="https://time.is/2359_15_Jan_2025_in_Anywhere_on_Earth?AXAI_2025_Paper_Deadline">January 15, 2025</a> (*<span id="daysLeft"></span>*) <span class="stamp">EXTENDED</span>
 - **Notification**: January 20, 2025
 - **Camera Ready**: February 10, 2025
 - **Submission Templates**: <a href="https://drive.google.com/file/d/1F9Nllrmhu6gUuYDdl-svxqwd5AW5NmZY/view?usp=drive_link">CEUR-ART 1-column Template</a>
@@ -159,10 +159,28 @@ This workshop is also supported by the Italian MUR PRIN 2022 PNRR Project P2022Y
 </main>
 
 <script>
-    function updateCountdown() {
-        const daysLeft = Math.ceil((new Date("2025-01-15") - new Date()) / (1000 * 60 * 60 * 24));
-        document.getElementById('daysLeft').innerText = daysLeft >= 0 ? daysLeft : 0;
-    }
+  function updateAoECountdown() {
+    const nowUTC = new Date().getTime(); // Current time in UTC (milliseconds since epoch)
+    const aoeDeadlineUTC = Date.parse("2025-01-16T11:59:59Z"); // Deadline in UTC (11:59 UTC is 23:59 AoE)
+    
+    const timeLeft = aoeDeadlineUTC - nowUTC; // Time left in milliseconds
 
-    updateCountdown();
+    const daysLeftElem = document.getElementById("daysLeft");
+
+    if (timeLeft > 24 * 60 * 60 * 1000) {
+      const daysLeft = Math.ceil(timeLeft / (1000 * 60 * 60 * 24));
+      daysLeftElem.innerText = `${daysLeft} days left`;
+    } else if (timeLeft > 60 * 60 * 1000) {
+      const hoursLeft = Math.ceil(timeLeft / (1000 * 60 * 60));
+      daysLeftElem.innerText = `${hoursLeft} hours left`;
+    } else if (timeLeft > 0) {
+      daysLeftElem.innerText = "Less than an hour left";
+    } else {
+      daysLeftElem.innerText = "Due";
+    }
+  }
+
+  // Initialize and update the countdown every second
+  updateAoECountdown();
+  setInterval(updateAoECountdown, 1000);
 </script>
