@@ -159,28 +159,10 @@ This workshop is also supported by the Italian MUR PRIN 2022 PNRR Project P2022Y
 </main>
 
 <script>
-  function updateAoECountdown() {
-    const nowUTC = new Date().getTime(); // Current time in UTC (milliseconds since epoch)
-    const aoeDeadlineUTC = Date.parse("2025-01-16T11:59:59Z"); // Deadline in UTC (11:59 UTC is 23:59 AoE)
-    
-    const timeLeft = aoeDeadlineUTC - nowUTC; // Time left in milliseconds
-
-    const daysLeftElem = document.getElementById("daysLeft");
-
-    if (timeLeft > 24 * 60 * 60 * 1000) {
-      const daysLeft = Math.ceil(timeLeft / (1000 * 60 * 60 * 24));
-      daysLeftElem.innerText = `${daysLeft} days left`;
-    } else if (timeLeft > 60 * 60 * 1000) {
-      const hoursLeft = Math.ceil(timeLeft / (1000 * 60 * 60));
-      daysLeftElem.innerText = `${hoursLeft} hours left`;
-    } else if (timeLeft > 0) {
-      daysLeftElem.innerText = "Less than an hour left";
-    } else {
-      daysLeftElem.innerText = "Due";
-    }
+  function updateCountdown() {
+    const daysLeft = Math.ceil((new Date("2025-01-16") - new Date()) / (1000 * 60 * 60 * 24));
+    document.getElementById('daysLeft').innerText = daysLeft > 0 ? `${daysLeft} days left` : "Due";
   }
 
-  // Initialize and update the countdown every second
-  updateAoECountdown();
-  setInterval(updateAoECountdown, 1000);
+  updateCountdown();
 </script>
