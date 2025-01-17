@@ -6,7 +6,7 @@
 This page describes the [IUI 2025](https://iui.acm.org/2025/index.html) Workshop on Adaptive eXplainable AI.
 - **Venue**: Cagliari, Sardinia, Italy
 - **Workshop Date**: March 24, 2024
-- **Submission Deadline**: [January 15, 2025](https://time.is/2359_15_Jan_2025_in_Anywhere_on_Earth?AXAI_2025_Paper_Deadline)
+- ~~**Submission Deadline**: [January 15, 2025](https://time.is/2359_15_Jan_2025_in_Anywhere_on_Earth?AXAI_2025_Paper_Deadline)~~
 - **Notification**: January 23, 2025
 - **Camera Ready**: February 10, 2025
 - **Submission Website**: [Microsoft CMT](https://cmt3.research.microsoft.com/AXAI2025)

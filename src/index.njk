@@ -94,7 +94,7 @@ This page describes the <a href="https://iui.acm.org/2025/index.html">IUI 2025</
 
 - **Venue**: Cagliari, Sardinia, Italy
 - **Workshop Date**: March 24, 2025
-- <span id="deadline">**Submission Deadline**: <a href="https://time.is/2359_15_Jan_2025_in_Anywhere_on_Earth?AXAI_2025_Paper_Deadline">January 15, 2025</a></span>
+- ~~<span id="deadline">**Submission Deadline**: <a href="https://time.is/2359_15_Jan_2025_in_Anywhere_on_Earth?AXAI_2025_Paper_Deadline">January 15, 2025</a></span>~~
 - **Notification**: January 23, 2025
 - **Camera Ready**: February 10, 2025
 - **Submission Website**: <a href="https://cmt3.research.microsoft.com/AXAI2025">Microsoft CMT</a>
@@ -169,16 +169,11 @@ This workshop is also supported by the Italian MUR PRIN 2022 PNRR Project P2022Y
     const now = new Date();
     const daysLeft = Math.ceil((deadlineDate - now) / (1000 * 60 * 60 * 24));
     
-    // document.getElementById('daysLeft').innerText = daysLeft > 0 ? `${daysLeft} days left` : "Due";
+    document.getElementById('daysLeft').innerText = daysLeft > 0 ? `${daysLeft} days left` : "Due";
     
-    if (daysLeft < 0) {
+    if (daysLeft < 0)
       deadline.style.textDecoration = "line-through";
-      const stamp = deadline.querySelector(".stamp");
-      if (stamp) {
-        stamp.remove();
-      }
-    }
   }
 
-  updateCountdown();
+  // updateCountdown();
 </script>
