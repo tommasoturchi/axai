@@ -7,7 +7,7 @@ This page describes the [IUI 2025](https://iui.acm.org/2025/index.html) Workshop
 - **Venue**: Cagliari, Sardinia, Italy
 - **Workshop Date**: March 24, 2024
 - ~~**Submission Deadline**: [January 15, 2025](https://time.is/2359_15_Jan_2025_in_Anywhere_on_Earth?AXAI_2025_Paper_Deadline)~~
-- **Notification**: January 23, 2025
+- **Notification**: January 24, 2025
 - **Camera Ready**: February 10, 2025
 - **Submission Website**: [Microsoft CMT](https://cmt3.research.microsoft.com/AXAI2025)
 - **Submission Template**: [CEUR-ART 1-column](https://drive.google.com/file/d/1F9Nllrmhu6gUuYDdl-svxqwd5AW5NmZY/view?usp=drive_link)
@@ -38,7 +38,7 @@ This year's workshop will delve deeper into emerging trends and challenges ident
 
 Submissions should be between 5 and 10 pages long, following the [CEUR-WS instructions](https://ceur-ws.org/HOWTOSUBMIT.html) for single column papers. Longer submissions may be considered, provided they remain within reasonable limits. Please note that submissions do not need to be anonymized.
 
-The deadline for submissions is *January 15, 2025* [AoE](https://time.is/2359_15_Jan_2025_in_Anywhere_on_Earth?AXAI_2025_Paper_Deadline).
+~~The deadline for submissions is *January 15, 2025* [AoE](https://time.is/2359_15_Jan_2025_in_Anywhere_on_Earth?AXAI_2025_Paper_Deadline).~~
 
 Submission website: [Microsoft CMT](https://cmt3.research.microsoft.com/AXAI2025)
 
