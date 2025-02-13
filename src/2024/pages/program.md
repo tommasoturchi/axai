@@ -24,9 +24,9 @@ We are excited to present the program for the Adaptive eXplainable AI Workshop, 
 <br />
 
 #### Accepted Papers
-- Fabio Paternò, Andrea Mattioli, and Sara Maenza. [A Design Space for Adaptive Explainable Daily Automations](/papers/Paterno.pdf)
-- Yan-Ming Chiou, Bob Price, Suibi Che-Chuan Weng, and Charles Ortiz. [Intelligent Augmented Reality System for Multi-Tasking Guidance and Support with Seamless AI-HCI Integration](/papers/Chiou.pdf)
-- Kaisa Väänänen, Ashley Colley, and Jonna Häkkilä. [Towards Adaptive AI Explanations with Tangible User Interfaces](/papers/Vaananen.pdf)
+- Fabio Paternò, Andrea Mattioli, and Sara Maenza. [A Design Space for Adaptive Explainable Daily Automations](/2024/papers/Paterno.pdf)
+- Yan-Ming Chiou, Bob Price, Suibi Che-Chuan Weng, and Charles Ortiz. [Intelligent Augmented Reality System for Multi-Tasking Guidance and Support with Seamless AI-HCI Integration](/2024/papers/Chiou.pdf)
+- Kaisa Väänänen, Ashley Colley, and Jonna Häkkilä. [Towards Adaptive AI Explanations with Tangible User Interfaces](/2024/papers/Vaananen.pdf)
 
 #### Collaborative Activity
 Following the engaging presentations and coffee break, our collaborative activity session promises to be a highlight of the workshop. This interactive segment is dedicated to fostering discussions on cutting-edge research trends within the realm of Adaptive eXplainable AI. Participants will have the unique opportunity to explore avenues for future research, brainstorm potential joint publications, and deliberate on the direction of upcoming workshop editions.
