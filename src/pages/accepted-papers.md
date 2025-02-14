@@ -56,3 +56,7 @@ These papers will be presented at AXAI 2025, held on March 24, 2025 in Cagliari,
 13. **Toward a Human-Centered Metric for Evaluating Trust in Artificial Intelligence Systems**  
     Andrea Esposito, Giuseppe Desolda, and Rosa Lanzilotti  
     *University of Bari Aldo Moro*
+
+### Special Issue
+
+Selected papers will be invited for submission in expanded form to a joint special issue together with invited papers from the [SYNERGY](https://synergy.trx.li) workshop on "Designing and Building Hybrid Human–AI Systems". Further instructions regarding formatting and the review/publication process will be provided when the invitations are sent.
